@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MedinaTheProgrammer
 - 👀 I’m interested in programming & codding
 - 🌱 I want to learn programming by using this app
-- 💞️ I want tio be a professional programmer
-- 📫 How to reach me medinasula22@gmail.com
+- 💞️ I want to be a professional programmer
+- 📫 How to reach me ...
 
 <!---
 MedinaTheProgrammer/MedinaTheProgrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
